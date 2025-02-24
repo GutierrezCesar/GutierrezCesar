@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Cesar Gutierrez</h1>
 
-Hey! I a student currently living in Lima, Peru. 
-
 ## 🪐 Sobre mi
 - Pais: Peru, Lima
 - Pronombres: El
