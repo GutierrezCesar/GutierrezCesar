@@ -2,6 +2,12 @@
 
 Hey! I a student currently living in Lima, Peru. 
 
+## 🪐 Sobre mi
+- Pais: Peru, Lima
+- Pronombres: El
+- Actualmente: Bachiller en Ingeniera de sistemas
+- Intereses: Backend | Frontend | FullStack
+
 ## ⚡ Technologies
 
 ### Language :
