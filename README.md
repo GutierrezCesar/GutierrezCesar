@@ -15,6 +15,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-💌 Mi contacto:
+## 💌 Mi contacto:
 - Linkedin: www.linkedin.com/in/cesargutierrezdiaz
 - Gmail: cesarjassongutierrezdiaz@gmail.com
