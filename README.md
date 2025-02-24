@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Cesar Gutierrez</h1>
 
-## 🪐 Sobre mi
-- Pais: Peru, Lima
-- Pronombres: El
-- Actualmente: Bachiller en Ingeniera de sistemas
-- Intereses: Backend | Frontend | FullStack
+## 🪐 About me
+- Country: Peru, Lima
+- Pronouns: El
+- Currently: Bachiller en Ingeniera de sistemas
+- Interests: Backend | Frontend | FullStack
 
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -15,6 +15,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-## 💌 Mi contacto:
+## 💌 My Contact:
 - Linkedin: www.linkedin.com/in/cesargutierrezdiaz
 - Gmail: cesarjassongutierrezdiaz@gmail.com
