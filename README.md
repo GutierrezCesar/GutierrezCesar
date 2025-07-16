@@ -16,5 +16,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ## 💌 My Contact:
-- Linkedin: www.linkedin.com/in/cesargutierrezdiaz
+- Linkedin: https://www.linkedin.com/in/cesar-gutierrezdiaz/
 - Gmail: cesarjassongutierrezdiaz@gmail.com
